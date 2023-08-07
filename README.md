@@ -1,7 +1,7 @@
 # Anomaly_detection_ECG
 Anomaly Detection using LSTM Auto Encoders
 
-# ECG Anomaly Detection using Recurrent Autoencoder
+# ECG Anomaly Detection using LSTM Autoencoder
 
 This repository contains an implementation of ECG (Electrocardiogram) anomaly detection using a LSTM Autoencoder model. The goal is to identify abnormal heartbeats in ECG time series data.
 
