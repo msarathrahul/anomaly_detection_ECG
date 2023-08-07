@@ -1,4 +1,4 @@
-# anomaly_detection_ECG
+# Anomaly_detection_ECG
 Anomaly Detection using LSTM Auto Encoders
 
 # ECG Anomaly Detection using Recurrent Autoencoder
